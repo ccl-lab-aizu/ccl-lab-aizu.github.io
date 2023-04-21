@@ -1,0 +1,10 @@
+# jemdoc: menu{MENU}{tables.html}, showsource, addcss{table}
+= Academic Year 2016
+The seminar schedule for the academic year 2016 (April 2016 - October 2017)
+
+~~~
+{}{table}{seminars}
+Date/time | Topic | Presenter | Slide | Note ||
+Thursday | Multipath TCP in Evolving Mobile Wireless Networks | Dr. Kien Nguyen | slide |  ||
+Nov. 22 (Wed) 9:30-10:40 | CNC06 mini project 2 report | Duc Mai | Slide | Note ||	
+~~~
