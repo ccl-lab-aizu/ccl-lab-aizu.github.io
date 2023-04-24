@@ -1,0 +1,9 @@
+# jemdoc: menu{MENU}{tables.html}, showsource, addcss{table}
+= Academic Year 2023
+The seminar schedule for the academic year 2023 (April 2023 - now)
+
+~~~
+{}{table}{seminars}
+Date/time | Topic | Presenter | Note ||
+Dec. 2 (Fri.) | [cuong2022master.html LDPC-based HARQ Design for Optical Satellite-Assisted Internet of Vehicles] | NGUYEN Cuong | Master’s Research Plan Seminar
+~~~

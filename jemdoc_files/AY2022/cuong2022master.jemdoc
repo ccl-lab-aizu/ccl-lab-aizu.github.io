@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{index.html}
+= Details
+
+- *Title*: LDPC-based HARQ Design for Optical Satellite-Assisted Internet of Vehicles
+
+- *Presenter*: NGUYEN Cuong
+
+- *Abstract*: The optical satellite-assisted Internet of Vehicles (IoVs) has recently attracted research efforts thanks to its wide range and high speed for sixth-generation (6G) 
+wireless networks. However, one of the most critical issues in designing optical satellite communication systems is the uncertainty of atmospheric channels. 
+This research plan presents a motivation for the design of hybrid automatic repeat requests (HARQ) in optical satellite-assisted IoVs requiring a simple but efficient 
+error correction code (ECC). The design is based on low-density parity-check (LDPC) codes, a class of high-performance ECC with relatively low decoding complexity.
+
+- *[../../slides/m5262109_presen.pdf Download]*
