@@ -724,3 +724,22 @@ div#member p{
     max-width: 100%;
   }
 }
+
+#seminars td.c1 { 
+	width: 15%;
+}
+
+#seminars td.c2 { 
+	/* text-align:left; */
+	width: 50%;
+}
+
+#seminars td.c3 { 
+	width: 20%;
+}
+
+#seminars tr.r1 { 
+	font-weight: bold; 
+	color: red;
+	text-align: center;
+}
