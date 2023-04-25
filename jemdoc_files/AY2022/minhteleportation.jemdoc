@@ -1,0 +1,10 @@
+# jemdoc: menu{MENU}{index.html}
+= Details
+
+- *Title*: Quantum Teleportation and Its Applications
+
+- *Presenter*: VU Minh
+
+- *Abstract*: Quantum teleportation can transfer information between locations without actually moving the physical matter that holds it. This technology could profoundly change the way data travels from place to place. It has been extended greatly in quantum computing, quantum network, quantum communications, and other fields. In this presentation, I will introduce the basic theory of quantum teleportation and its applications that have been achieved in recent years for commercial and scientific purposes.
+
+- *[../../slides/AY2022/Quantum-Teleportation-Minh.pdf Download]*

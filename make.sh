@@ -7,9 +7,9 @@ cd jemdoc_files
 cd $dir
 
 cd jemdoc_files/AY2022
-./jemdoc -c ../mysite.conf -o ../../html/AY2022/ *.jemdoc
+./jemdoc -c mysite.conf -o ../../html/AY2022/ *.jemdoc
 cd $dir
 
 cd jemdoc_files/AY2023
-./jemdoc -c ../mysite.conf -o ../../html/AY2023/ *.jemdoc
+./jemdoc -c mysite.conf -o ../../html/AY2023/ *.jemdoc
 cd $dir

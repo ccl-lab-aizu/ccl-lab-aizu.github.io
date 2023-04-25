@@ -1,0 +1,10 @@
+# jemdoc: menu{MENU}{index.html}
+= Details
+
+- *Title*: Resource Allocation for Federated Learning in UAV aided - Digital Twin Edge Networks
+
+- *Presenter*: PHAM Giang
+
+- *Abstract*: In recent years, the digital twin edge network (DITEN), which combines the digital twin (DT) concept and mobile edge computing (MEC), is proposed to revolutionize customer services to a fully intelligent and autonomous system for the next network generation. In DITENs, the network states can be continuously monitored at the network edge, and based on these states, the network schemes such as routing, or resource management can be studied at the constructed DITEN by a centralized manner. In this work, we consider federated learning (FL) to construct the DT in DITENs to protect the user privacy. In FL, each user exploits limited local computation resources to train the FL model by its local collected data, then sends the trained model parameters to a central MEC server, which aggregates the local FL model and broadcasts it back to all users. Since FL involves a frequent model exchange between the central servers and distributed users, the communications overhead can be a bottleneck in the DT building process. For this reason, we leverage a UAV (UAV aided - DITEN) as a relay node to assist the network communications. A joint learning and communication problem is formulated as an optimization problem to minimize the energy consumption of the system under the latency constraint required to construct the twin. To solve this problem, an iterative algorithm is proposed, where at each step, the local accuracy of FL, computation frequency, decision for choosing relay node, and offloading power are optimally derived. Some initial simulation results will be provided. 
+
+- *[../../slides/AY2022/giangpham-resource_allocation_for_federated_learning_in_uav-aided_diten.pdf Download]*

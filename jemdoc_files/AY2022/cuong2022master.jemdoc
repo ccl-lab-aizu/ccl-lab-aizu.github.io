@@ -10,4 +10,4 @@ wireless networks. However, one of the most critical issues in designing optical
 This research plan presents a motivation for the design of hybrid automatic repeat requests (HARQ) in optical satellite-assisted IoVs requiring a simple but efficient 
 error correction code (ECC). The design is based on low-density parity-check (LDPC) codes, a class of high-performance ECC with relatively low decoding complexity.
 
-- *[../../slides/m5262109_presen.pdf Download]*
+- *[../../slides/AY2022/m5262109_presen.pdf Download]*

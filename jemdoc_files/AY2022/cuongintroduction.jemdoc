@@ -7,4 +7,4 @@
 
 - *Abstract*: Low-density Parity-check (LDPC) codes are a family of linear block codes that have been widely used in current wireless standards thanks to their high performance and low decoding complexity. In this presentation, I will first review the basics of error-correction codes (ECCs) and LDPC codes. Then two decoding algorithms for LDPC codes, i.e., Hard Decision Bit Flipping and Messaging-Passing Algorithms, are presented. The advantages of LDPC codes over other ECCs are also highlighted in this section. Finally, my research direction for LDPC-based error-control design in vertical optical communication is introduced.
 
-- *[../../slides/LDPC-Seminar-Final.pdf Download]*
+- *[../../slides/AY2022/LDPC-Seminar-Final.pdf Download]*
