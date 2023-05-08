@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{index.html}
+= Details
+
+- *Title*: Performance of IR-HARQ-based LDPC Extension Codes in Optical Satellite Systems
+
+- *Presenter*: NGUYEN Cuong
+
+- *Abstract*: Free-space optical (FSO)-based low-earth orbit (LEO) satellite communication is regarded as a promising solution for ubiquitous and high-speed connections of vehicular networks.
+However, one of the challenging issues for such systems is unreliable transmission due to atmospheric turbulence and misalignment pointing. To address the issue, a design of
+ the incremental redundancy (IR)-hybrid automatic repeat request (HARQ) based on the rate-compatible (RC)-low-density parity check (LDPC) is proposed.
+Moreover, we will consider the parity check matrix's structure and systematic encoding method of the RC-LDPC code family derived by the code extension method. 
+From the simulation results, it can be seen that the LDPC-based IR-HARQ can outperform the conventional ARQ in terms of goodput and energy efficiency. 
+The goodput performance of the IR-HARQ is also considered in case of misalignment pointing. 
+Finally, the ideas for the extension paper are discussed.
