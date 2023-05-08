@@ -1,0 +1,7 @@
+# jemdoc: menu{MENU}{tables.html}, showsource, addcss{table}
+= Invited Talks
+
+~~~
+{}{table}{seminars}
+Date | Topic | Presenter ||
+~~~

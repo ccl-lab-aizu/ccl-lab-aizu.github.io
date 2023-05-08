@@ -1,0 +1,10 @@
+# jemdoc: menu{MENU}{index.html}
+= Details
+
+- *Title*: Soft-Decision Decoding for the LDPC Code: Belief Propagation Algorithm
+
+- *Presenter*: NGUYEN Cuong
+
+- *Abstract*: This is the second half of the LDPC presentation. In this talk, I introduce the soft-decision decoding algorithm for LDPC codes, namely belief propagation. Then, I will show an example of the decoding algorithm over a binary-input additive white gaussian channel (BI-AWGN).
+
+- *[../../slides/RegSeminars/cuong2023soft.pdf Download]*

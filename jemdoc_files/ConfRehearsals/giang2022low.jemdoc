@@ -1,0 +1,24 @@
+# jemdoc: menu{MENU}{index.html}
+= Details
+
+- *Title*: Low-latency Communications in MEC-enabled UAV Systems: A Deep Reinforcement Learning Approach
+
+- *Presenter*: PHAM Giang
+
+- *Abstract*: This paper considers a MEC-enabled UAV system for IoT devices (IoTDs), where the
+IoTDs execute computation-intensive delay-sensitive applications with additional edge
+computing services provided by the UAV.
+To minimize the system power consumption while considering the delay requirement,
+we formulate a multi-stage mixed-integer-non-linear-program (MINLP) optimization
+problem that optimizes the offloading decision and the computation-communication
+resources under time-varying channel conditions and data arrival in sequential
+timeslots.
+To make the problem more tractable, we first apply the Lyapunov optimization to
+decouple the original time-evolving problem into per-slot deterministic ones, then
+address the per-slot MINLP by a model-based deep reinforcement learning approach.
+Simulation results show that our proposed approach can obtain the optimal decision for
+minimizing the power consumption while satisfying delay constraints.
+In addition, the solution with low execution delay and scalability can be applied to
+online learning under fast-varying environments with density networks.
+
+- *[../../slides/ConfRehearsals/giang2022low.pdf Download]*

@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{tables.html}, showsource, addcss{table}
+= Graduation Seminars
+
+~~~
+{}{table}{seminars}
+Date | Topic | Presenter | Note ||
+2023, Mar. 27 | [hoang2023optical.html Optical Satellite-Air-Ground Integrated Networks for Internet from Space: Achievements and Future Directions] | Dr. LE Hoang | Postdoc Report Seminar ||
+2023, Mar. 2 | [minh2023research.html Research on Satellite-based Free-Space Optical Quantum Key Distribution Systems for Multiple Wireless Users] | VU Minh | Doctoral Dissertation Preliminary Review ||
+2022, Dec. 14 | [linh2022resource.html Resource Management toward Queue Stability in UAV-Assisted MEC Networks: A Deep Reinforcement Learning Approach] | HOANG Linh |  Progress Report Presentation (Doctoral Program) ||
+2022, Dec. 2 | [cuong2022master.html LDPC-based HARQ Design for Optical Satellite-Assisted Internet of Vehicles] | NGUYEN Cuong | Master’s Research Plan Seminar
+~~~

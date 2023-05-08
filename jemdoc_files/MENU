@@ -1,6 +1,8 @@
-    Main page                               [index.html]
+    Homepage                              [index.html]
 
-Academic year
-    AY 2023                       [html/AY2023/AY2023.html]
-    AY 2022                       [html/AY2022/AY2022.html]
-
+Categories
+    Regular Seminars                    [html/RegSeminars/main.html]
+    Graduation Seminars                 [html/GradSeminars/main.html]
+    Conference Rehearsal                [html/ConfRehearsals/main.html]
+    Winter/Autumn Camp                  [html/Camp/main.html]
+    Invited Talks                       [html/InvitedTalks/main.html]

@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{tables.html}, showsource, addcss{table}
+= Winter/Autumn Camp
+
+== Winter Camp 2023
+~~~
+{}{table}{seminars}
+Date | Topic | Presenter | Note ||
+2023, Mar. 9 | [tinh2023on.html On the Design of Power Adaptation for Free-Space Optical (FSO)-based Vertical Networks using Machine Learning Approach] | NGUYEN Tinh |  ||
+2023, Mar. 9 | [cuong2023ldpc.html LDPC-based HARQ Design for Optical Satellite-Assisted Internet of Vehicles] | NGUYEN Cuong |  ||
+2023, Mar. 9 | [giang2023resource.html Resource Allocation for Federated Learning in UAV aided - Digital Twin Edge Networks] | PHAM Giang |  ||
+2023, Mar. 9 | [linh2023adaptive.html Adaptive Placement of Aerial Base Stations: A Learning-based Approach] | HOANG Linh |  ||
+2023, Mar. 9 | [minh2023teleportation.html Quantum Teleportation and Its Applications] | VU Minh |  ||
+2023, Mar. 9 | [hoang2023heidelberg.html Heidelberg Laureate Forum (HLF): A Unique Experience] | Dr. LE Hoang |
+~~~

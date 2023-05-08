@@ -1,0 +1,10 @@
+# jemdoc: menu{MENU}{index.html}
+= Details
+
+- *Title*: Adaptive Placement of Aerial Base Stations: A Learning-based Approach
+
+- *Presenter*: HOANG Linh
+
+- *Abstract*: Deployment of Unmanned Aerial Vehicles (UAVs) as aerial base stations (ABSs) has emerged as a promising solution to enable high-quality services in mobile networks. One key challenge is how to place the UAV dynamically over time in response to changes in network situations (e.g., user movement). Conventional methods usually utilize the spatial distribution of users to place the UAV accordingly, treating users with unbalanced traffic equally. This approach might be ineffective when the user’s traffic is highly heterogeneous. In this paper, we propose a deep reinforcement learning framework that utilizes not only the location but also specific download traffic of each user to place the UAV and maximize the long-term download throughput. The framework’s core module is a deep neural network (DNN) that obtains the UAV’s location and three heat maps of users’ statistics (including the queue length, newly-requested traffic, and channel condition) to predict the optimal movement of the UAV. Extensive simulations demonstrate that the proposed method can improve the user’s throughput by up to 24.7% over an approach that purely relies on users’ locations in optimization.
+
+- *[../../slides/Camp/wintercamp2023/linh2023adaptive.pdf Download]*
