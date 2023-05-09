@@ -12,3 +12,5 @@ Moreover, we will consider the parity check matrix's structure and systematic en
 From the simulation results, it can be seen that the LDPC-based IR-HARQ can outperform the conventional ARQ in terms of goodput and energy efficiency. 
 The goodput performance of the IR-HARQ is also considered in case of misalignment pointing. 
 Finally, the ideas for the extension paper are discussed.
+
+- *[../../slides/RegSeminars/cuong2023performance.pdf Download]*
