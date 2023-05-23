@@ -12,3 +12,5 @@ methods is based on the feedback of the channel state information (CSI), which m
 scheme that jointly adapts the modulation order and transmitted power according to the current channel conditions. The feedback CSIs are predicted in advance by machine 
 learning (ML)-based prediction models, which can counteract the induced feedback delay. The detailed implementation of the system and the performance evaluation will also 
 be provided and discussed in this presentation.
+
+- *[../../slides/RegSeminars/tinh2023adaptive.pdf Download]*
