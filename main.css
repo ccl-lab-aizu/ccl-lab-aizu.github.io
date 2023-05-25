@@ -434,6 +434,10 @@ table.imgtable, table.imgtable td {
 	width: 15%;
 }
 
+#seminars td.c4 { 
+	width: 20%;
+}
+
 #seminars tr.r1 { 
 	font-weight: bold; 
 	color: red;

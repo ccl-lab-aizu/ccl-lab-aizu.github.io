@@ -1,6 +1,16 @@
 # jemdoc: menu{MENU}{tables.html}, showsource, addcss{table}
 = Graduation Seminars
 
+== AY 2023
+~~~
+{}{table}{seminars}
+Date | Topic | Presenter | Note ||
+2023, Aug. 15 | TBD | NGUYEN Tinh | Bachelor Thesis Presentation ||
+2023, Aug. 8 | TBD | PHAM Giang | Master Thesis Presentation ||
+2023, June 20 | TBD | VU Minh | Final Ph.D. Dissertation Presentation
+~~~
+
+== AY 2022
 ~~~
 {}{table}{seminars}
 Date | Topic | Presenter | Note ||
