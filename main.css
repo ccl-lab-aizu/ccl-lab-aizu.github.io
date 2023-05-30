@@ -442,4 +442,5 @@ table.imgtable, table.imgtable td {
 	font-weight: bold; 
 	color: red;
 	text-align: center;
+	border-bottom: 2px solid black;
 }
