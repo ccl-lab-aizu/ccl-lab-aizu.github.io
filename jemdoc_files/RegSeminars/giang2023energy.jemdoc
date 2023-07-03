@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{index.html}
+= Details
+
+- *Title*: Energy-Efficient Federated Learning-enabled Digital Twin in UAV-aided Vehicular Networks 
+
+- *Presenter*: PHAM Giang
+
+- *Abstract*: Federated learning (FL)-enabled digital twin (DT) has recently attracted research attention to bring intelligent applications. 
+However, enabling the FL-enabled DT in vehicular networks becomes challenging due to vehicle mobility's impact on communication channels. 
+In this regard, we propose to deploy an unmanned aerial vehicle (UAV) as a relay node to support the vehicular network. 
+The objective is to minimize energy consumption under the trade-off with the latency and accuracy constraints of the DT model via a joint optimization of local accuracy, 
+the local computation frequency, relay decision, and transmission power. To do so, we derive instantaneous formulas to update the accuracy and latency constraints, 
+then solve the proposed problem using an iterative algorithm with convex optimization techniques. Numerical results show that the proposed dynamic optimization for 
+UAV-aided vehicular networks can reduce up to 39.9% of consumption energy compared to conventional methods.
