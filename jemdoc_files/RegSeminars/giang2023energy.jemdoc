@@ -12,3 +12,5 @@ The objective is to minimize energy consumption under the trade-off with the lat
 the local computation frequency, relay decision, and transmission power. To do so, we derive instantaneous formulas to update the accuracy and latency constraints, 
 then solve the proposed problem using an iterative algorithm with convex optimization techniques. Numerical results show that the proposed dynamic optimization for 
 UAV-aided vehicular networks can reduce up to 39.9% of consumption energy compared to conventional methods.
+
+- *[../../slides/RegSeminars/giang2023energy.pdf Download]*
