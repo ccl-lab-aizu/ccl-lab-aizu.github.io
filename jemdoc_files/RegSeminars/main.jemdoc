@@ -46,3 +46,23 @@ Date | Topic | Presenter | Note ||
 2022, Dec. 21 | [cuong2022introduction.html Introduction to Low-density Parity-check Codes (LDPC)] | NGUYEN Cuong | ||
 2021, May 12 | [linh2021high.html High Altitude Platform Station (HAPS)-aided Communication Systems] | HOANG Linh | 
 ~~~
+
+== AY 2021 and older
+~~~
+{}{table}{seminars}
+Date | Topic | Presenter | Note ||
+2021 | [../../slides/RegSeminars/thang2021integrated.pdf Integrated Satellite-HAP-UAV Network with Hybrid FSO\/RF systems] | NGUYEN Thang | ||
+2020 | [../../slides/RegSeminars/minh2020survey.pdf Survey on Quantum Key Distribution] | VU Minh | ||
+2020, Sept. | [../../slides/RegSeminars/linh2020machine.pdf Machine Learning-Based Methods For Classification] | HOANG Linh | ||
+2020, Sept. 7 | [../../slides/RegSeminars/hoang2020survey.pdf A Survey on ARQ and Hybrid ARQ in Free-Space Optical (FSO) Systems] | LE Hoang | ||
+2019, Jun. 26 | [../../slides/RegSeminars/hoang2019tcp.pdf Throughput Analysis of TCP Cubic over 5G mmWave Networks] | LE Hoang | ||
+2019 | [../../slides/RegSeminars/thanh2019retro.pdf Free-Space Optical Communication using Modulating Retro-Reflector] | PHAM Thanh | ||
+2019 | [../../slides/RegSeminars/minh2019capacity.pdf Channel Capacity] | VU Minh | ||
+2019 | [../../slides/RegSeminars/minh2019outage.pdf Outage Performance of High Altitude Platform-Unmanned Aerial Vehicle Free Space Optical Links] | VU Minh | ||
+2019, Jun. 20 | [../../slides/RegSeminars/tuan2019mmtc.pdf Small cell-assisted Group Paging for cellular mMTC] | BUI Tuan | ||
+2019, Mar. 13 | [../../slides/RegSeminars/hoang2019harq.pdf HARQ Protocol for Burst Transmission over FSO Turbulence Channels] | LE Hoang | ||
+2019, Jan. 23 | [../../slides/RegSeminars/tuan2019massive.pdf Massive Multiple Access in LTE-based Machine-Type Communications: Recent Results] | BUI Tuan | ||
+2018, Nov. 28 | [../../slides/RegSeminars/thang2018orthogonal.pdf Orthogonal Frequency Division Multiplexing] | NGUYEN Thang | ||
+2016, Nov. 16 | [../../slides/RegSeminars/tuan2016networkcoding.pdf Throughput Analysis of Wireless Relay Slotted ALOHA with Network Coding (NC)] | BUI Tuan | ||
+2015, Nov. 24 | [../../slides/RegSeminars/vuong2015tcp.pdf TCP and Modeling TCP Performance: A Review & Survey] | MAI Vuong | 
+~~~
