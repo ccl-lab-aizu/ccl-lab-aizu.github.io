@@ -1,6 +1,17 @@
 # jemdoc: menu{MENU}{tables.html}, showsource, addcss{table}
 = Winter/Autumn Camp
 
+== Winter Camp 2024
+~~~
+{}{table}{seminars}
+Date | Topic | Presenter | Note ||
+2024, Feb. 27 | [../../slides/Camp/wintercamp2024/Takihara_Yudai.pdf Development of Secure Chat Application Based Quantum Key Distribution (QKD)] | TAKIHARA Yudai |  ||
+2024, Feb. 27 | [../../slides/Camp/wintercamp2024/Thang_Nguyen.pdf Joint Probabilistic Shaping and Precoding Design for MU-MISO VLC Systems] | NGUYEN Thang |  ||
+2024, Feb. 27 | [../../slides/Camp/wintercamp2024/Tinh_Nguyen.pdf End-to-end Performance Optimization for Mixed FSO/RF-aided Vertical Networks: A ML Approach] | NGUYEN Tinh |  ||
+2024, Feb. 27 | [../../slides/Camp/wintercamp2024/Cuong_Nguyen.pdf Protograph LDPC Code Extension for Key Reconciliation of Satellite-based Optical Key Distribution Systems] | NGUYEN Cuong |  ||
+2024, Feb. 27 | [../../slides/Camp/wintercamp2024/Linh_Hoang.pdf Deployment of Aerial Base Stations: A Multi-Agent Reinforcement Learning Approach] | HOANG Linh |
+~~~
+
 == Winter Camp 2023
 ~~~
 {}{table}{seminars}
