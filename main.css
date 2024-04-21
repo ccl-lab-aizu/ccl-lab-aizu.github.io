@@ -444,3 +444,7 @@ table.imgtable, table.imgtable td {
 	text-align: center;
 	border-bottom: 2px solid black;
 }
+
+td.menu_table { 
+    text-align: left;
+  }
