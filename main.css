@@ -35,13 +35,14 @@ body {
 }
 
 #layout-menu {
-	background: #f6f6f6;
+	background: #39424e;
 	border: 1px solid #dddddd;
 	padding-top: 0.5em;
 	padding-left: 8px;
 	padding-right: 8px;
 	font-size: 1.0em;
 	width: auto;
+	height: 1000px;
 	white-space: nowrap;
 	text-align: left;
 	vertical-align: top;
@@ -76,10 +77,6 @@ body {
 	width: 1000px;
 }
 
-#layout-menu a {
-	line-height: 1.5em;
-	margin-left: 0.5em;
-}
 
 tt {
 	background: #ffffee;
@@ -100,11 +97,11 @@ a:hover {
 }
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
-	color: #022b6d;
+	color: #cddc39;
 	border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color: #527bbd;
+	color: #cddc39;
 	text-decoration: none;
 }
 #layout-menu a:hover {
@@ -117,6 +114,7 @@ div.menu-category {
 	padding-top: 0.2em;
 	padding-bottom: 0.1em;
 	font-weight: bold;
+	color: white;
 }
 
 div.menu-item {
@@ -440,20 +438,20 @@ table.imgtable, table.imgtable td {
 }
 
 #seminars td.c1 { 
-	width: 15%;
+	width: 150px;
 }
 
 #seminars td.c2 { 
 	/* text-align:left; */
-	width: 50%;
+	width: 500px;
 }
 
 #seminars td.c3 { 
-	width: 15%;
+	width: 150px;
 }
 
 #seminars td.c4 { 
-	width: 20%;
+	width: 200px;
 }
 
 #seminars tr.r1 { 
@@ -469,7 +467,7 @@ td.menu_table {
 
   body { 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
-    background-image: url('figures/backgroud.jpg');
+    /* background-image: url('figures/backgroud.jpg'); */
     background-size: cover;
     color: #333; 
     margin: 0; 
@@ -478,3 +476,8 @@ td.menu_table {
     flex-direction: column; 
     height: 100vh;
   }
+
+  .menu-item { 
+    margin-bottom: 15px; 
+  }
+  
