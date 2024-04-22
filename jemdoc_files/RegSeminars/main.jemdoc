@@ -1,6 +1,21 @@
 # jemdoc: menu{MENU}{tables.html}, showsource, addcss{table}
 = Regular Seminars
 
+== Semester 1, AY 2024
+~~~
+{}{table}{seminars}
+Date | Topic | Presenter | Note ||
+2024, Aug. 21 | TBD | ZHANG Jinghui | Research Status Update ||
+2024, Jul. 12 | TBD | NGUYEN Thang | New Idea Presentation ||
+2024, Jul. 5 | TBD | NGUYEN Cuong | ICC New Idea Presentation ||
+2024, Jun. 21 | TBD | NGUYEN Hoa | Report on Cybersecurity event ||
+2023, Jun. 21 | TBD | ZHANG Jinghui | Deep RL Seminar ||
+2023, Jun. 14 | TBD | TAKIHARA Yudai | Thesis Finalization ||
+2023, May 24 | TBD | NGUYEN Thang | Reseach Status Update ||
+2023, May 17 | TBD | NGUYEN Cuong | CSNDSP Extension Status Update ||
+2023, May 8 | TBD | NGUYEN Tinh | Research Status Update
+~~~
+
 == Semester 2, AY 2023
 ~~~
 {}{table}{seminars}
@@ -21,12 +36,12 @@ Date | Topic | Presenter | Note ||
 2023, Sept. 13 | Joint Design of Adaptive Modulation and Precoding for Physical Layer Security in Visible Light Communications using Reinforcement Learning | Dr. PHAM Thanh | ||
 2023, Sept. 13 | Recent Research Activities on Federated Learning-Aided Intelligent Transportation Systems | PHAM Giang |  ||
 2023, July 19 | [../../slides/RegSeminars/yudai2023quantum.pdf Quantum Key Distribution] | TAKIHARA Yudai | Book-reading report ||
-2023, July 12 | [cuong2023performance.html Performance of IR-HARQ-based LDPC Extension Codes in Optical Satellite Systems] | NGUYEN Cuong | Redo the last seminar ||
-2023, July 5 | [giang2023energy.html Energy-Efficient Federated Learning-enabled Digital Twin in UAV-aided Vehicular Networks]  | PHAM Giang | Rehearsal for master thesis ||
+2023, July 12 | [../../slides/RegSeminars/cuong2023performance.pdf Performance of IR-HARQ-based LDPC Extension Codes in Optical Satellite Systems] | NGUYEN Cuong | Redo the last seminar ||
+2023, July 5 | [../../slides/RegSeminars/giang2023energy.pdf Energy-Efficient Federated Learning-enabled Digital Twin in UAV-aided Vehicular Networks]  | PHAM Giang | Rehearsal for master thesis ||
 2023, June 21 | [gupta2023federated.html Federated Learning with Differential Privacy based Data Protection Model for Enhancing Utility and Convergence] | Dr. GUPTA Rishabh | Update the GC-WS paper ||
 2023, June 14 | [../../slides/RegSeminars/minh2023research.pdf Research on Satellite-Based Free-Space Optical Quantum Key Distribution Systems for Multiple Wireless Users] | VU Minh | Rehearsal for final Ph.D. dissertation ||
-2023, May 24 | [tinh2023adaptive.html Adaptive Modulation and Power Control for FSO–based Vertical Networks with Channel Prediction] | NGUYEN Tinh | ||
-2023, May 17 | [giang2023joint.html A Joint Optimization for Dynamic Federated Learning in UAV-aided Digital Twin Vehicular Networks]| PHAM Giang | ||
+2023, May 24 | [../../slides/RegSeminars/tinh2023adaptive.pdf Adaptive Modulation and Power Control for FSO–based Vertical Networks with Channel Prediction] | NGUYEN Tinh | ||
+2023, May 17 | [../../slides/RegSeminars/giang2023joint.pdf A Joint Optimization for Dynamic Federated Learning in UAV-aided Digital Twin Vehicular Networks]| PHAM Giang | ||
 2023, May 10 | [cuong2023performance.html Performance of IR-HARQ-based LDPC Extension Codes in Optical Satellite Systems] | NGUYEN Cuong | ||
 2023, Apr. 26 | [gupta2023secure.html Secure Data Sharing Models in Cloud Environments] | Dr. GUPTA Rishabh | 
 ~~~
@@ -36,8 +51,8 @@ Date | Topic | Presenter | Note ||
 {}{table}{seminars}
 Date | Topic | Presenter | Note ||
 2023, Feb. 8 | [minh2023quantum.html Quantum Entanglement: From Theory to Technology] | VU Minh | ||
-2023, Feb. 1 | [cuong2023soft.html Soft-Decision Decoding for the LDPC Code: Belief Propagation Algorithm] | NGUYEN Cuong | ||
-2022, Dec. 21 | [cuong2022introduction.html Introduction to Low-density Parity-check Codes (LDPC)] | NGUYEN Cuong | ||
+2023, Feb. 1 | [../../slides/RegSeminars/cuong2023soft.pdf Soft-Decision Decoding for the LDPC Code: Belief Propagation Algorithm] | NGUYEN Cuong | ||
+2022, Dec. 21 | [../../slides/RegSeminars/cuong2023introduction.pdf Introduction to Low-density Parity-check Codes (LDPC)] | NGUYEN Cuong | ||
 2021, May 12 | [../../slides/RegSeminars/linh2021high.pdf High Altitude Platform Station (HAPS)-aided Communication Systems] | HOANG Linh | 
 ~~~
 
