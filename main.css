@@ -365,6 +365,7 @@ img.eqwl {
 table {
 	border: 2px solid black;
 	border-collapse: collapse;
+	table-layout: fixed;
 }
 
 td {
@@ -419,6 +420,10 @@ table.imgtable, table.imgtable td {
 	vertical-align: 0ex;
 	margin-left: -0.05em;
 	margin-right: 0em;
+}
+
+#seminar {
+	table-layout: fixed;
 }
 
 #seminars td.c1 { 

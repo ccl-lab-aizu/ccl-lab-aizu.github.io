@@ -2,9 +2,9 @@
 
 dir=$(pwd)
 
-cd jemdoc_files
-./jemdoc -c mainsite.conf -o ../ index.jemdoc
-cd $dir
+# cd jemdoc_files
+# ./jemdoc -c mainsite.conf -o ../ index.jemdoc
+# cd $dir
 
 cd jemdoc_files/RegSeminars
 ./jemdoc -c ../subsite.conf -o ../../html/RegSeminars/ *.jemdoc

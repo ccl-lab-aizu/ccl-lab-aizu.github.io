@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{tables.html}, showsource, addcss{table}
 = Regular Seminars
 
-== Q3-4, AY 2023
+== Semester 2, AY 2023
 ~~~
 {}{table}{seminars}
 Date | Topic | Presenter | Note ||
@@ -13,13 +13,12 @@ Date | Topic | Presenter | Note ||
 2023, Nov. 8 | [../../slides/RegSeminars/tinh2023end.pdf End-to-end Performance Optimization for Mixed FSO/sub-THz-aided Vertical Networks: A ML Approach] | NGUYEN Tinh | New Proposal
 ~~~
 
-== Q1-2, AY 2023
+== Semester 1, AY 2023
 ~~~
 {}{table}{seminars}
 Date | Topic | Presenter | Note ||
 2023, Sept. 14 | Learning-based Dynamic 3D Placement of Multiple Aerial Base Stations With Heterogeneous Traffic | HOANG Linh |  ||
-2023, Sept. 13 | Joint Design of Adaptive Modulation and Precoding for Physical Layer Security in Visible Light 
-Communications using Reinforcement Learning | Dr. PHAM Thanh | ||
+2023, Sept. 13 | Joint Design of Adaptive Modulation and Precoding for Physical Layer Security in Visible Light Communications using Reinforcement Learning | Dr. PHAM Thanh | ||
 2023, Sept. 13 | Recent Research Activities on Federated Learning-Aided Intelligent Transportation Systems | PHAM Giang |  ||
 2023, July 19 | [../../slides/RegSeminars/yudai2023quantum.pdf Quantum Key Distribution] | TAKIHARA Yudai | Book-reading report ||
 2023, July 12 | [cuong2023performance.html Performance of IR-HARQ-based LDPC Extension Codes in Optical Satellite Systems] | NGUYEN Cuong | Redo the last seminar ||
