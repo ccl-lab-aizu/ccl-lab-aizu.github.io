@@ -1,77 +1,22 @@
 # jemdoc: menu{MENU}{tables.html}, showsource, addcss{table}
 = Regular Seminars
 
-== Semester 1, AY 2024
+== Semester 2, AY 2024
 ~~~
 {}{table}{seminars}
 Time & Place | Topic | Presenter | Note ||
-11:30 - 12:00, July 19, 2023 in North Lounge | TBD | NGUYEN Hoa | Report on Cybersecurity Event ||
-11:00 - 11:30, July 19, 2023 in North Lounge | TBD | ZHANG Jinghui | Researsal for MS research plan ||
-11:00 - 12:00, July 12, 2023 in North Lounge | TBD | NGUYEN Thang | New Idea Presentation ||
-11:00 - 12:00, July 5, 2023 in North Lounge | [../../slides/RegSeminars/cuong2024progress2.pdf Research Progress: Performance Analysis of Satellite-based Quantum Key Distribution Systems] | NGUYEN Cuong | ICC New Idea Presentation ||
-17:30 - 18:00, June 28, 2023 in North Lounge | [../../slides/RegSeminars/yuma2024network.pdf Network Security Essentials] | KAMINAGA Yuma | Book reading seminar ||
-11:00 - 12:00, June 28, 2023 in North Lounge | [../../slides/RegSeminars/yudai2024thesisrehearsal.pdf Development and Simulation of Application Based on Quantum Key Distribution (QKD)] | TAKIHARA Yudai | Thesis Finalization ||
-9:30 - 11:30, May 24, 2023 in North Lounge | [../../slides/RegSeminars/thang2024autoencoder.pdf Autoencoders for Probabilistic Constellation Shaping] | NGUYEN Thang | Reseach Status Update ||
-9:30 - 11:30, May 17, 2023 in North Lounge | [../../slides/RegSeminars/cuong2024progress.pdf Research Progress: Design of Blind Reconciliation for Satellite-based Quantum Key Distribution Systems] | NGUYEN Cuong | CSNDSP Extension Status Update ||
-9:30 - 11:30, May 8, 2023 in CCL's meeting room | [../../slides/RegSeminars/tinh2024drl.pdf Research Progress: End-to-end Performance Optimization for Mixed FSO/RF-aided Vertical Networks: A DRL Approach] | NGUYEN Tinh | Research Status Update
-~~~
-
-== Semester 2, AY 2023
-~~~
-{}{table}{seminars}
-Date | Topic | Presenter | Note ||
-2024, Jan. 31 | [../../slides/RegSeminars/tinh2024progress.pdf Research Progress: An FSO-based Drone Assisted Access Network] | NGUYEN Tinh | Progress checkpoint ||
-2024, Jan. 17 | [../../slides/RegSeminars/linh2024review.pdf A Review of RL Algorithms and Its Application in UAV-BS Deployment] | HOANG Linh | Progress checkpoint ||
-2024, Jan. 10 | [../../slides/RegSeminars/thang2024joint.pdf Joint Probabilistic Shaping and Precoding Design for MU-MISO VLC Systems] | NGUYEN Thang | New Proposal ||
-2023, Nov. 22 | [../../slides/RegSeminars/yudai2023simulation.pdf Simulation for Quantum Key Distribution] | TAKIHARA Yudai | Progress Report ||
-2023, Nov. 8 | Report on Internship at Rakuten | HOANG Linh | ||
-2023, Nov. 8 | [../../slides/RegSeminars/tinh2023end.pdf End-to-end Performance Optimization for Mixed FSO/sub-THz-aided Vertical Networks: A ML Approach] | NGUYEN Tinh | New Proposal
-~~~
-
-== Semester 1, AY 2023
-~~~
-{}{table}{seminars}
-Date | Topic | Presenter | Note ||
-2023, Sept. 14 | Learning-based Dynamic 3D Placement of Multiple Aerial Base Stations With Heterogeneous Traffic | HOANG Linh |  ||
-2023, Sept. 13 | Joint Design of Adaptive Modulation and Precoding for Physical Layer Security in Visible Light Communications using Reinforcement Learning | Dr. PHAM Thanh | ||
-2023, Sept. 13 | Recent Research Activities on Federated Learning-Aided Intelligent Transportation Systems | PHAM Giang |  ||
-2023, July 19 | [../../slides/RegSeminars/yudai2023quantum.pdf Quantum Key Distribution] | TAKIHARA Yudai | Book-reading report ||
-2023, July 12 | [../../slides/RegSeminars/cuong2023performance.pdf Performance of IR-HARQ-based LDPC Extension Codes in Optical Satellite Systems] | NGUYEN Cuong | Redo the last seminar ||
-2023, July 5 | [../../slides/RegSeminars/giang2023energy.pdf Energy-Efficient Federated Learning-enabled Digital Twin in UAV-aided Vehicular Networks]  | PHAM Giang | Rehearsal for master thesis ||
-2023, June 21 | [gupta2023federated.html Federated Learning with Differential Privacy based Data Protection Model for Enhancing Utility and Convergence] | Dr. GUPTA Rishabh | Update the GC-WS paper ||
-2023, June 14 | [../../slides/RegSeminars/minh2023research.pdf Research on Satellite-Based Free-Space Optical Quantum Key Distribution Systems for Multiple Wireless Users] | VU Minh | Rehearsal for final Ph.D. dissertation ||
-2023, May 24 | [../../slides/RegSeminars/tinh2023adaptive.pdf Adaptive Modulation and Power Control for FSO–based Vertical Networks with Channel Prediction] | NGUYEN Tinh | ||
-2023, May 17 | [../../slides/RegSeminars/giang2023joint.pdf A Joint Optimization for Dynamic Federated Learning in UAV-aided Digital Twin Vehicular Networks]| PHAM Giang | ||
-2023, May 10 | [cuong2023performance.html Performance of IR-HARQ-based LDPC Extension Codes in Optical Satellite Systems] | NGUYEN Cuong | ||
-2023, Apr. 26 | [gupta2023secure.html Secure Data Sharing Models in Cloud Environments] | Dr. GUPTA Rishabh | 
-~~~
-
-== AY 2022
-~~~
-{}{table}{seminars}
-Date | Topic | Presenter | Note ||
-2023, Feb. 8 | [minh2023quantum.html Quantum Entanglement: From Theory to Technology] | VU Minh | ||
-2023, Feb. 1 | [../../slides/RegSeminars/cuong2023soft.pdf Soft-Decision Decoding for the LDPC Code: Belief Propagation Algorithm] | NGUYEN Cuong | ||
-2022, Dec. 21 | [../../slides/RegSeminars/cuong2023introduction.pdf Introduction to Low-density Parity-check Codes (LDPC)] | NGUYEN Cuong | ||
-2021, May 12 | [../../slides/RegSeminars/linh2021high.pdf High Altitude Platform Station (HAPS)-aided Communication Systems] | HOANG Linh | 
-~~~
-
-== AY 2021 and older
-~~~
-{}{table}{seminars}
-Date | Topic | Presenter | Note ||
-2021 | [../../slides/RegSeminars/thang2021integrated.pdf Integrated Satellite-HAP-UAV Network with Hybrid FSO\/RF systems] | NGUYEN Thang | ||
-2020 | [../../slides/RegSeminars/minh2020survey.pdf Survey on Quantum Key Distribution] | VU Minh | ||
-2020, Sept. | [../../slides/RegSeminars/linh2020machine.pdf Machine Learning-Based Methods For Classification] | HOANG Linh | ||
-2020, Sept. 7 | [../../slides/RegSeminars/hoang2020survey.pdf A Survey on ARQ and Hybrid ARQ in Free-Space Optical (FSO) Systems] | LE Hoang | ||
-2019, Jun. 26 | [../../slides/RegSeminars/hoang2019tcp.pdf Throughput Analysis of TCP Cubic over 5G mmWave Networks] | LE Hoang | ||
-2019 | [../../slides/RegSeminars/thanh2019retro.pdf Free-Space Optical Communication using Modulating Retro-Reflector] | PHAM Thanh | ||
-2019 | [../../slides/RegSeminars/minh2019capacity.pdf Channel Capacity] | VU Minh | ||
-2019 | [../../slides/RegSeminars/minh2019outage.pdf Outage Performance of High Altitude Platform-Unmanned Aerial Vehicle Free Space Optical Links] | VU Minh | ||
-2019, Jun. 20 | [../../slides/RegSeminars/tuan2019mmtc.pdf Small cell-assisted Group Paging for cellular mMTC] | BUI Tuan | ||
-2019, Mar. 13 | [../../slides/RegSeminars/hoang2019harq.pdf HARQ Protocol for Burst Transmission over FSO Turbulence Channels] | LE Hoang | ||
-2019, Jan. 23 | [../../slides/RegSeminars/tuan2019massive.pdf Massive Multiple Access in LTE-based Machine-Type Communications: Recent Results] | BUI Tuan | ||
-2018, Nov. 28 | [../../slides/RegSeminars/thang2018orthogonal.pdf Orthogonal Frequency Division Multiplexing] | NGUYEN Thang | ||
-2016, Nov. 16 | [../../slides/RegSeminars/tuan2016networkcoding.pdf Throughput Analysis of Wireless Relay Slotted ALOHA with Network Coding (NC)] | BUI Tuan | ||
-2015, Nov. 24 | [../../slides/RegSeminars/vuong2015tcp.pdf TCP and Modeling TCP Performance: A Review & Survey] | MAI Vuong | 
+13:30, Feb 19, 2025 in CCL's meeting room | TBD | PHETXOMPHOU Zalita | Progress Report ||
+13:30, Feb 12, 2025 in CCL's meeting room | TBD | NGUYEN Hoa | Progress Report ||
+15:00, Jan 22, 2025 in CCL's meeting room | TBD | KAMINAGA Yuma | Progress Report ||
+13:30, Jan 22, 2025 in CCL's meeting room | TBD | DANG Khanh | Progress Report ||
+13:30, Jan 15, 2025 in CCL's meeting room | TBD | NGUYEN Tinh | Master's Thesis Rehearsal ||
+13:30, Jan 8, 2025 in CCL's meeting room | TBD | NGUYEN Cuong | Internship Report ||
+13:30, Dec 18, 2024 in CCL's meeting room | Aspect-based and Sentiment Modeling For Large-scale Text Analysis | NGUYEN Hoa | Progress Report ||
+16:45, Dec 12, 2024 in CCL's meeting room | Research Progress Seminar Presentation About Deep Learning and Reinforcement Learning | ZHANG Jinghui | Progress Report ||
+15:15, Dec 12, 2024 in CCL's meeting room | Development of IQX-based Satellite FSO-QKD Simulator | TAKIHARA Yudai | Progress Report ||
+10:30, Nov 20, 2024 in North Lounge | [../../slides/GradSeminars/RPP_Zalita.pdf UAV Trajectories Design for Emergency and Disaster Management Network] | PHETXOMPHOU Zalita | RPP Rehearsal ||
+9:00, Nov 20, 2024 in North Lounge | [../../slides/GradSeminars/RPP_Khanh.pdf Resource Allocation for Optical IRS-Assisted Multi-UAVs Networks] | DANG Khanh | RPP Rehearsal ||
+9:00, Nov 13, 2024 in CCL's meeting room | [../../slides/RegSeminars/cuong13112024.pdf Information Reconciliation with Polar Code for Satellite QKD Systems ] | NGUYEN Cuong | New Proposal ||
+9:00, Nov 6, 2024 in CCL's meeting room | [../../slides/RegSeminars/khanh06112024.pdf Spatial Resource Allocation for ORIS Supporting Multiple UAVs in FSO-Assisted HAP-IoV Networks] | DANG Khanh | New Proposal ||
+9:00, Oct 30, 2024 in CCL's meeting room | TBD | NGUYEN Thang | New Proposal
 ~~~

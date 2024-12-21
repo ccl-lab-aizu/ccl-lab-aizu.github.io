@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{index.html}
+= Details
+
+- *Title*: Federated Learning with Differential Privacy based Data Protection Model for Enhancing Utility and Convergence
+
+- *Presenter*: Dr. GUPTA Rishabh
+
+- *Abstract*: Federated learning (FL) is an emerging approach for training machine learning models on a central server in the cloud environment. 
+Unlike existing works that gather and train models on the central server in the cloud, FL enables various users to collaboratively train a global model on the central server 
+without disclosing their local data to the cloud. However, FL does not operate more effectively when each user only has a limited or subset of data. Thus, it suffers from 
+the issues of convergence and accuracy degradation problems. This paper proposes a novel Federated Learning with Differential Privacy based Data Protection Model (FD-DPM) to 
+enhance utility and convergence in the cloud environment.  In the proposed model, the Laplace mechanism is considered to preserve the privacy of users' data before transferring 
+it to the cloud. The global model is trained using user-provided data, the local model is trained using the local dataset, and computed values are transferred rather than the raw 
+data to the central server. Users acquire an updated average parameter based on averaging various local and global versions. This updated parameter is repeatedly shared with the 
+user at regular intervals so they can be retrained to develop a more robust, effective model that can accurately anticipate outcomes.
+
+- *[../../slides/RegSeminars/gupta2023federated.pdf Download]*

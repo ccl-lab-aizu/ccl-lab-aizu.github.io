@@ -25,3 +25,7 @@ cd $dir
 cd jemdoc_files/InvitedTalks
 ./jemdoc -c ../subsite.conf -o ../../html/InvitedTalks/ *.jemdoc
 cd $dir
+
+cd jemdoc_files/achived_RegSeminars
+./jemdoc -c ../subsite.conf -o ../../html/achived_RegSeminars/ *.jemdoc
+cd $dir
