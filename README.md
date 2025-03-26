@@ -1,1 +1,1 @@
-# ccl-lab-aizu.github.io
+# ccl-aizu-seminar.github.io
