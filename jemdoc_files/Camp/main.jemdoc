@@ -1,6 +1,20 @@
 # jemdoc: menu{MENU}{tables.html}, showsource, addcss{table}
 = Winter/Autumn Camp
 
+== Winter Camp 2025
+~~~
+{}{table}{seminars}
+Date | Topic | Presenter | Note ||
+2025, Feb. 26 | [../../slides/Camp/wintercamp2025/Yudai.pdf Investigation of Satellite-Based Quantum Communication for FSO-QKD Systems in GEO-to-LEO Links] | TAKIHARA Yudai |  ||
+2025, Feb. 26 | [../../slides/Camp/wintercamp2025/Cuong.pdf Investigation of FEC Codes and Time-Diversity on Experimental FSO LEO-to-Ground Channels] | NGUYEN Cuong |  ||
+2025, Feb. 26 | [../../slides/Camp/wintercamp2025/Zalita.pdf CNC06A Course Project Review: Throughput Analysis of Wireless Relay Slotted ALOHA Systems with Network Coding (NC)] | PHETXOMPHOU Zalita |  ||
+2025, Feb. 26 | [../../slides/Camp/wintercamp2025/Khanh.pdf Resource Allocation for Optical IRS-Assisted Multi-UAVs Networks] | DANG Khanh |  ||
+2025, Feb. 26 | [../../slides/Camp/wintercamp2025/Yuma.pdf QKD-Based Secure Chat Room Application] | KAMINAGA Yuma |  ||
+2025, Feb. 26 | [../../slides/Camp/wintercamp2025/Hoa.pdf Zero-Knowledge Proof Schemes for Lightweight IoT Devices in Permissioned Blockchain Networks] | NGUYEN Hoa |  ||
+2025, Feb. 26 | [../../slides/Camp/wintercamp2025/Jinghui.pdf Reviewing Knowledge about Deep Learning and Reinforcement Learning] | ZHANG Jinghui |  ||
+2025, Feb. 26 | [../../slides/Camp/wintercamp2025/Tinh.pdf Wrapping Up Memories in Aizu] | NGUYEN Tinh |
+~~~
+
 == Winter Camp 2024
 ~~~
 {}{table}{seminars}

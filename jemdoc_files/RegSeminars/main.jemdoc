@@ -1,21 +1,24 @@
 # jemdoc: menu{MENU}{tables.html}, showsource, addcss{table}
 = Regular Seminars
 
-== Semester 2, AY 2024
+== Semester 1, AY 2025
 ~~~
 {}{table}{seminars}
 Time & Place | Topic | Presenter | Note ||
-13:30, Feb 19, 2025 in CCL's meeting room | [../../slides/RegSeminars/zalita19022025.pdf The Transition from 4G to 5G: Design, Challenges, and Future Prospects] | PHETXOMPHOU Zalita | Progress Report ||
-13:30, Feb 12, 2025 in CCL's meeting room | [../../slides/RegSeminars/hoa12022025.pdf Zero-Knowledge Proof Schemes for Lightweight IoT Devices in Permissioned Blockchain Networks] | NGUYEN Hoa | Progress Report ||
-15:00, Jan 22, 2025 in CCL's meeting room | [../../slides/RegSeminars/yuma22012025.pdf QKD-based Secure Chat Room Application] | KAMINAGA Yuma | Progress Report ||
-13:30, Jan 22, 2025 in CCL's meeting room | [../../slides/RegSeminars/khanh22012025.pdf Resource Allocation for Optical IRS-Assisted Multi-UAVs Networks] | DANG Khanh | Progress Report ||
-13:30, Jan 15, 2025 in CCL's meeting room | [../../slides/GradSeminars/MT_Tinh.pdf End-to-end Performance Optimization for Mixed FSO\/RF-aided Non-Terrestrial Networks: A DRL Approach] | NGUYEN Tinh | Master's Thesis Rehearsal ||
-13:30, Dec 18, 2024 in CCL's meeting room | Aspect-based and Sentiment Modeling For Large-scale Text Analysis | NGUYEN Hoa | Progress Report ||
-16:45, Dec 12, 2024 in CCL's meeting room | Research Progress Seminar Presentation About Deep Learning and Reinforcement Learning | ZHANG Jinghui | Progress Report ||
-15:15, Dec 12, 2024 in CCL's meeting room | [../../slides/RegSeminars/yudai12122024.pdf Development of IQX-based Satellite FSO-QKD Simulator] | TAKIHARA Yudai | Progress Report ||
-10:30, Nov 20, 2024 in North Lounge | [../../slides/GradSeminars/RPP_Zalita.pdf UAV Trajectories Design for Emergency and Disaster Management Network] | PHETXOMPHOU Zalita | RPP Rehearsal ||
-9:00, Nov 20, 2024 in North Lounge | [../../slides/GradSeminars/RPP_Khanh.pdf Resource Allocation for Optical IRS-Assisted Multi-UAVs Networks] | DANG Khanh | RPP Rehearsal ||
-9:00, Nov 13, 2024 in CCL's meeting room | [../../slides/RegSeminars/cuong13112024.pdf Information Reconciliation with Polar Code for Satellite QKD Systems ] | NGUYEN Cuong | New Proposal ||
-9:00, Nov 6, 2024 in CCL's meeting room | [../../slides/RegSeminars/khanh06112024.pdf Spatial Resource Allocation for ORIS Supporting Multiple UAVs in FSO-Assisted HAP-IoV Networks] | DANG Khanh | New Proposal ||
-9:00, Oct 30, 2024 in CCL's meeting room | Interference Exploitation via Symbol-Level Precoding for Physical Layer Security | NGUYEN Thang | New Proposal
+13:00, July 23, 2025 | TBD | NGUYEN Cuong | Progress Report ||
+13:00, July 16, 2025 | TBD | DOAN Luan | Progress Report ||
+14:00, July 9, 2025 | TBD | KAMINAGA Yuma | Progress Report ||
+13:00, July 9, 2025 | TBD | PHETXOMPHOU Zalita | Progress Report ||
+13:00, July 2, 2025 | TBD | LE Hung | Progress Report ||
+13:00, June 11, 2025 | TBD | DANG Khanh | Progress Report ||
+13:00, June 4, 2025 | TBD | KAMINAGA Yuma | Progress Report ||
+13:00, May 28, 2025 | TBD | PHETXOMPHOU Zalita | Progress Report ||
+14:00, May 21, 2025 | TBD | NGUYEN Hoa | Progress Report ||
+13:00, May 21, 2025 | TBD | TAKIHARA Yudai | Progress Report ||
+14:00, May 14, 2025 | TBD | NGUYEN Cuong | New Idea Proposal ||
+13:00, May 14, 2025 | TBD | DOAN Luan | New Idea Proposal ||
+13:00, Apr 30, 2025 | TBD | LE Hung | New Idea Proposal ||
+13:00, Apr 23, 2025 | TBD | DANG Khanh | New Idea Proposal ||
+13:00, Apr 16, 2025 | Investigation of Fade Mitigation Methods for FSO LEO-to-Ground Links | NGUYEN Cuong | Progress Report
+
 ~~~
